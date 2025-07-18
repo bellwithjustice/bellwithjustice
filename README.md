@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Zhenyi Zhong, an undergraduate in Tianjin University
-- 👀 I’m interested in AI for bioscience
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 3022244192@tju.edu.cn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧪 Hi there, I'm Zhenyi Zhong – an undergraduate at Tianjin University focused on AI for bioscience.
 
-<!---
-bellwithjustice/bellwithjustice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Past Experience**  
+- **Intern, Tsinghua AIR** – developed deep-learning models for protein–ligand binding-affinity prediction  
+- **Intern, CASIA (Institute of Automation, Chinese Academy of Sciences)** – secret before WAIC(let's look forward to WAIC!)
+
+**Mission**  
+Build AI systems that understand the languages of biology and chemistry to accelerate rational drug design.
+
+📬 Get in touch: [3022244192@tju.edu.cn](mailto:3022244192@tju.edu.cn)  
+📄 Openreview(still waiting for gradual accepted and publication): [OpenReview](https://openreview.net/profile?id=%7EZhenyi_Zhong1)
