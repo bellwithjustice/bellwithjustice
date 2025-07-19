@@ -1,4 +1,4 @@
-### 🧪 Hi there, I'm Zhenyi Zhong – an undergraduate at Tianjin University focused on AI for bioscience.
+### 🧪 Hi there, I'm Zhenyi Zhong – an undergraduate at Tianjin University focused on AI for bioscience and generative model.
 
 **Past Experience**  
 - **Intern, Tsinghua AIR** – developed deep-learning models for protein–ligand binding-affinity prediction  
