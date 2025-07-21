@@ -7,5 +7,5 @@
 **Mission**  
 Build AI systems that understand the languages of biology and chemistry to accelerate rational drug design.
 
-📬 Get in touch: [3022244192@tju.edu.cn](mailto:3022244192@tju.edu.cn)  
+📬 Get in touch: [3022244192@tju.edu.cn](mailto:zhenyi_zhong@tju.edu.cn)  
 📄 Openreview(still waiting for gradual accepted and publication): [OpenReview](https://openreview.net/profile?id=%7EZhenyi_Zhong1)
